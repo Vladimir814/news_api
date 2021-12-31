@@ -16,9 +16,14 @@ Install dependencies
 $ pip install -r requirements.txt
 ```
 
-Run Server (http://localhst:5000)
+Run Server (http://localhost:5000)
 ```sh
 $ python main.py
+```
+
+Endpoint
+```sh
+http://127.0.0.1:5000/news
 ```
 See the output
 ![Alt text](app/static/images/Screenshot_news_api.png?raw=true "News api")
